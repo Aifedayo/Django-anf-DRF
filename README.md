@@ -1,2 +1,2 @@
-# Django-anf-DRF
+# Django-and-DRF
 Django Rest Framework 
